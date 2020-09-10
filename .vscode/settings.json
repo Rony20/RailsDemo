@@ -1,0 +1,10 @@
+{
+    "emmet.preferences": {
+    
+    },
+    "emmet.extensionsPath": "",
+    "emmet.excludeLanguages": [
+
+        "markdown"
+    ]
+}
